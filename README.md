@@ -22,9 +22,9 @@ asyncArray(array, (params)=>{
 ```
 
 ## Todo
-Have Promise to return something
-Handle rejection
-Test code (I tested on Express and seems to work but need to test how practical this is in, for example, React. Also don't know if iteration is in correct order, but so far seems like it)
+Have Promise to return something<br>
+Handle rejection<br>
+Test code (I tested on Express and seems to work but need to test how practical this is in, for example, React. Also don't know if iteration is in correct order, but so far seems like it)<br>
 
 
 &copy; Roudari 2022 - (CC BY 4.0)
