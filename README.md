@@ -15,7 +15,7 @@ Call the function like this to access callback parameters:
 ```js
 asyncArray(array, (params)=>{
     const {index,element} = params;
-    //do something to 
+    //do something with index and element
 }).then( ()=>{
     //do something after loop is complete
 })
